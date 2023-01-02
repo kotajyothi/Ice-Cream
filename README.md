@@ -88,3 +88,4 @@ MY WEBSITE LINK IS : https://gentle-wave-0ab622810.2.azurestaticapps.net/
 
 # AZURE SERVICES USED
 
+<img width="945" alt="Screenshot_20230102_081309" src="https://user-images.githubusercontent.com/117186901/210246401-a6ba2976-d243-43bc-90bc-250d0c723f5e.png">
