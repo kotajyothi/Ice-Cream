@@ -12,9 +12,11 @@ Industry : Lifestyle
 
 Project Title : Ice-Cream
 
-Problem Statement/Opportunity : Good Medication Is needed for evrey person.
+Problem Statement/Opportunity : Ice cream is a frozen dairy dessert obtained by freezing the ice cream mix with continuous agitation. It contains milk products, sweetening materials, stabilizers, colors, flavors, and egg products. Ice cream had its origins in Europe and was introduced later in the United States where it developed into an industry.
 
-Project Description : Best Medicens Will Have Best Results.
+Project Description : In this project, I have created seven templets they are home, about us, dropdown, menu , services, contact us and bot us in which home is the main templet and all the other templets are mentioned in it assets consists of all the images colors and design of the website.
+
+
 
 Primary Azure Technology : Static Web Apps, Azure Health Bot
 
